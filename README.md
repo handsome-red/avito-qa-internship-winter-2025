@@ -37,7 +37,7 @@
    ```  
 6. Файл с найденными багами [Task2_1_BUGS.md](./Task2_1/BUGS.md)
 
-7. Файл с найденными багами [Task2_1_TESTCASES.md](./Task2_1/TESTCASES.md)
+7. Файл с тест-кейсами [Task2_1_TESTCASES.md](./Task2_1/TESTCASES.md)
 
 ### Структура проекта
    ```  
